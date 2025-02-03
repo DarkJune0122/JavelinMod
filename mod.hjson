@@ -1,23 +1,26 @@
 #the mod name as displayed in-game
-displayName: "Java Mod Template"
+displayName: "Javelin in v7"
 
 #the internal name of your mod
-name: "example-java-mod"
+name: "javelin-unit-mod"
 
 #your name
-author: "You"
+author: "DarkJune"
 
 #the fully qualified main class of the mod
-main: "example.ExampleJavaMod"
+main: "javelin.JavelinMod"
 
 #the mod description as seen in the mod dialog
-description: "A Mindustry Java mod template."
+description: "Adds Javelin to the base game. Balanced appropriately."
 
 #the mod version
-version: 1.0
+version: 1.1
 
 #the minimum game build required to run this mod
 minGameVersion: 145
 
 #this is a java mod
 java: true
+
+#repo on GitHub of this project.
+repo: SkillJune/Javelin
